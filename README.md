@@ -1,1 +1,1 @@
-Trabalho feito para a disciplina de Desenvolvimento de Software 1, com Codeigniter e MySQL. Para testá-lo basta importar o banco para o PhpMyAdmin, ativar seu apache e seu mysql no xampp, abrir a pasta no terminal e digitar "php spark serve".
+Trabalho feito para a disciplina de Desenvolvimento de Software 1, com Codeigniter e MySQL. Para testá-lo basta importar o banco para o phpMyAdmin, ativar seu apache e seu mysql no xampp, abrir a pasta no terminal e digitar "php spark serve".

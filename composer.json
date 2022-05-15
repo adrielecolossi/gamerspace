@@ -115,10 +115,6 @@
             "@psalm",
             "@phpunit"
         ],
-         "post-install-cmd": [
-            "php artisan clear-compiled",
-            "chmod -R 777 public/"
-        ],
         "update:baselines": "phpstan analyse --generate-baseline && psalm --set-baseline=psalm-baseline.xml",
         "twig-lint": "php scripts/console lint:twig templates --ansi --show-deprecations"
     },

@@ -23,7 +23,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'https://gamerspace.herokuapp.com/';
+    public $baseURL = 'https://adrielecolossi.github.io/gamerspace/';
 
     /**
      * --------------------------------------------------------------------------
